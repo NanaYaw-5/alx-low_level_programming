@@ -5,7 +5,6 @@
  * Return: Always 0 (Success)
  */
 int main(void)
-
 {
 	
 	_putcher('_');
@@ -19,3 +18,4 @@ int main(void)
 	_putcher('\n');
 	return (0);
 }	
+
